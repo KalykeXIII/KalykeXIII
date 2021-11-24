@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalykexiii&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogotcorreia&theme=nord&count_private=true)
+
 <!--
 **KalykeXIII/KalykeXIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
